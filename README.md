@@ -1,3 +1,5 @@
+<image src="https%3A%2F%2Ftoppng.com%2Ffree-image%2Fmachine-learning-machine-learning-images-PNG-free-PNG-Images_184161&docid=qs9oJoYe-fa8AM&tbnid=t7XPc2qHcxhgWM&vet=12ahUKEwivhL2P5suHAxXHXaQEHfWMKVgQM3oECBoQAA..i&w=840&h=859&hcb=2&ved=2ahUKEwivhL2P5suHAxXHXaQEHfWMKVgQM3oECBoQAA"/>
+
 # Simple Linear Regression in Go
 
 Welcome to the **Simple Linear Regression in Go** project! This project implements a basic linear regression model from scratch, using Go, to predict values based on a single feature. It's a great starting point for learning about machine learning concepts like gradient descent and model evaluation.
