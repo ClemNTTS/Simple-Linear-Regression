@@ -1,4 +1,4 @@
-![alt text](img.png)
+<image src="https://github.com/ClemNTTS/Simple-Linear-Regression/blob/SimpleLinearRegression/img.png" width=140/>
 
 # Simple Linear Regression in Go
 
