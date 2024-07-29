@@ -1,4 +1,4 @@
-<image src="https://banner2.cleanpng.com/lnd/20240530/kku/ax55ykcf5.webp"/>
+<image src="![alt text](img.png)"/>
 
 # Simple Linear Regression in Go
 
