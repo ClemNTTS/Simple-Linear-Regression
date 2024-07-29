@@ -1,4 +1,4 @@
-<image src="![alt text](img.png)"/>
+![alt text](img.png)
 
 # Simple Linear Regression in Go
 
