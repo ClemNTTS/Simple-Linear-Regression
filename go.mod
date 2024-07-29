@@ -1,0 +1,3 @@
+module LinearRegression
+
+go 1.22.1
