@@ -1,4 +1,4 @@
-<image src="https%3A%2F%2Ftoppng.com%2Ffree-image%2Fmachine-learning-machine-learning-images-PNG-free-PNG-Images_184161&docid=qs9oJoYe-fa8AM&tbnid=t7XPc2qHcxhgWM&vet=12ahUKEwivhL2P5suHAxXHXaQEHfWMKVgQM3oECBoQAA..i&w=840&h=859&hcb=2&ved=2ahUKEwivhL2P5suHAxXHXaQEHfWMKVgQM3oECBoQAA"/>
+<image src="https://toppng.com/uploads/preview/machine-learning-machine-learning-images-11562973695ibzwqakg0u.png"/>
 
 # Simple Linear Regression in Go
 
